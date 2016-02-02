@@ -1,2 +1,4 @@
 # spaApp-jQuery
-simple jQuery spaApp
+
+> Simple jQuery SPA application with error handling.
+
